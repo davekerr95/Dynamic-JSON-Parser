@@ -1,0 +1,11 @@
+{ "Store":
+
+	[
+	      {"Store Name":"Londis", "Number Entered":"20","Number Exited":"5"},
+	      {"Store Name":"Maynooth Books", "Number Entered":"5", "Number Exited":"1"},
+	      {"Store Name":"Soul Foods", "Number Entered":"21", "Number Exited":"12"},
+	      {"Store Name":"Bewleys", "Number Entered":"10", "Number Exited":"2"},
+	      {"Store Name":"SU Bar", "Number Entered":"105", "Number Exited":"105"},
+	      {"Store Name":"Chill", "Number Entered":"55", "Number Exited":"21"}
+	]
+}
